@@ -1,2 +1,2 @@
-# CollisionCheck
-https://shlokmodi.github.io/CollisionCheck/
+# p5.play-boilerplate
+Boiler plate for p5.play
